@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jerome Fernando
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning at lithan academy 
+- 🌱 I’m currently learning at IIT
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me? j.a.d.fernando@gmail.com
 
